@@ -1,0 +1,27 @@
+last_changed,state,entity_id
+"2020-09-16 00:00:01.041850",02:00,sensor.time
+"2020-09-16 00:00:02.481464",57.32,sensor.humscd301
+"2020-09-16 00:00:02.497214",23.36,sensor.tempscd301
+"2020-09-16 00:00:02.512877",1068.12,sensor.co2scd301
+"2020-09-16 00:00:02.650691",1008.2589999999999,sensor.pressurebmp
+"2020-09-16 00:00:02.888725",56.67,sensor.humscd302
+"2020-09-16 00:00:02.904623",23.59,sensor.tempscd302
+"2020-09-16 00:00:02.920233",1066.34,sensor.co2scd302
+"2020-09-16 00:00:22.640568",57.36,sensor.humscd301
+"2020-09-16 00:00:22.656899",23.33,sensor.tempscd301
+"2020-09-16 00:00:22.672513",1067.81,sensor.co2scd301
+"2020-09-16 00:00:22.827647",1008.255,sensor.pressurebmp
+"2020-09-16 00:00:23.050657",1067.27,sensor.co2scd302
+"2020-09-16 00:00:28.929094",2C6AB2116461,sensor.tasmota_esp_ds18b20_id
+"2020-09-16 00:00:28.945403",24.6,sensor.tasmota_esp_ds18b20_temperature
+"2020-09-16 00:00:41.230734","{""sensor"":""BMP280"",""time"":532800268,""temp"":23.34,""pressure"":100798.4}",sensor.arduino_sensor
+"2020-09-16 00:00:41.251307",23.34,sensor.arduino_sensor_temperature
+"2020-09-16 00:00:41.267247","",sensor.arduino_sensor_humidity
+"2020-09-16 00:00:41.282966",1007.984,sensor.arduino_sensor_pressure
+"2020-09-16 00:00:41.503556","{""sensor"":""HTU21"",""time"":532800268,""temp"":22.79878,""hum"":60.01715}",sensor.arduino_sensor
+"2020-09-16 00:00:41.542912",22.79878,sensor.arduino_sensor_temperature
+"2020-09-16 00:00:41.578551",60.01715,sensor.arduino_sensor_humidity
+"2020-09-16 00:00:42.847823",57.29,sensor.humscd301
+"2020-09-16 00:00:42.863307",23.32,sensor.tempscd301
+"2020-09-16 00:00:42.878979",1067.8,sensor.co2scd301
+"2020-09-16 00:00:43.137546",1008.2639999999999,sensor.pressurebmp

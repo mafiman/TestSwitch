@@ -1,0 +1,8 @@
+last_changed,state,entity_id
+"2020-01-19 06:12:27.541123",08:12,sensor.time
+"2020-10-19 06:12:28.169703",12,sensor.test_value
+"2020-10-19 06:12:28.267335",192.168.1.103,sensor.local_ip
+"2020-10-19 06:12:28.622794",35.2,sensor.system_temp
+"2020-10-19 06:12:43.221897",unavailable,sensor.tasmotabas1_status
+"2020-10-19 06:12:50.101184",2C6AB2116461,sensor.tasmota_esp_ds18b20_id
+"2020-10-19 06:12:50.107599",21.8,sensor.tasmota_esp_ds18b20_temperature
